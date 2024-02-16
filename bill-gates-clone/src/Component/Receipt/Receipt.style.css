@@ -1,0 +1,12 @@
+.item-information {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+.total-price {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}

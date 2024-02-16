@@ -1,0 +1,13 @@
+.item-container {
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.item-container img {
+    max-width: 100px;
+    height: 100px;
+}
